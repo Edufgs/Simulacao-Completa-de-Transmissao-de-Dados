@@ -1,0 +1,3 @@
+Crie uma funcionalidade personalizada usando blocos de funções MATLAB = https://la.mathworks.com/help/simulink/ug/creating-an-example-model-that-uses-a-matlab-function-block.html
+
+Converter uma string para binário e depois do binário de volta para string = https://la.mathworks.com/matlabcentral/answers/305999-how-to-convert-a-string-to-binary-and-then-from-the-binary-back-to-string
